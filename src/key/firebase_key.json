@@ -1,0 +1,14 @@
+{
+    "type": "Tipo de cuenta de servicio",
+    "project_id": "ID del proyecto",
+    "private_key_id": "ID de la clave privada",
+    "private_key": "Clave privada en formato PEM",
+    "client_email": "Correo electrónico del cliente",
+    "client_id": "ID del cliente",
+    "auth_uri": "URI de autorización",
+    "token_uri": "URI del token",
+    "auth_provider_x509_cert_url": "URL del proveedor de certificados X.509 de autenticación",
+    "client_x509_cert_url": "URL del certificado X.509 del cliente",
+    "universe_domain": "Dominio del universo"
+}
+  

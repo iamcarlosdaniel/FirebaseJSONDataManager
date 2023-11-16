@@ -1,0 +1,34 @@
+{
+  "usuarios": [
+    {
+      "nombre": "Juan Perez",
+      "correo": "juan.perez@example.com",
+      "telefono": "123-456-7890",
+      "direccion": "Calle 123, Ciudad ABC"
+    },
+    {
+      "nombre": "Maria Garcia",
+      "correo": "maria.garcia@example.com",
+      "telefono": "987-654-3210",
+      "direccion": "Avenida XYZ, Ciudad DEF"
+    },
+    {
+      "nombre": "Carlos Rodriguez",
+      "correo": "carlos.rodriguez@example.com",
+      "telefono": "555-123-4567",
+      "direccion": "Calle Principal, Ciudad GHI"
+    },
+    {
+      "nombre": "Ana Lopez",
+      "correo": "ana.lopez@example.com",
+      "telefono": "777-888-9999",
+      "direccion": "Avenida Central, Ciudad JKL"
+    },
+    {
+      "nombre": "Miguel Sanchez",
+      "correo": "miguel.sanchez@example.com",
+      "telefono": "111-222-3333",
+      "direccion": "Calle Secundaria, Ciudad MNO"
+    }
+  ]
+}
